@@ -1,0 +1,37 @@
+# Core Django (if not already installed)
+Django>=4.2.0
+djangorestframework
+
+# Database - PostgreSQL
+psycopg2-binary 
+django-db-pool
+
+# PDF Processing
+PyMuPDF==1.23.8
+
+# Excel and CSV processing (new for PO/GRN)
+openpyxl
+xlrd
+pandas==2.3.0
+
+# Token counting for cost tracking
+tiktoken
+# Data processing and analysis
+numpy
+
+# LangChain and Google AI
+langchain
+langchain-google-genai
+
+# Google AI dependencies
+google-generativeai>=0.3.0
+
+# Additional dependencies that might be needed
+requests>=2.31.0
+python-dotenv>=1.0.0
+
+# Optional: For better logging and debugging
+colorlog>=6.7.0
+
+# Logging and monitoring
+python-json-logger

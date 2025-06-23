@@ -1,0 +1,88 @@
+Watching for file changes with StatReloader
+Processing invoice file: 1748598217159&&0jpFTJiq-invoice-ZHPTN26-OR-0016508948.pdf
+Validation error: GOOGLE_API_KEY must be set in Django settings or environment variables
+Bad Request: /document-processing/api/process-invoice/
+D:\Entrans\Ginthi-backend\Ginthi\reconciliation\reconciliation\settings.py changed, reloading.
+Watching for file changes with StatReloader
+Processing invoice file: 1748598217159&&0jpFTJiq-invoice-ZHPTN26-OR-0016508948.pdf
+Validation error: GOOGLE_API_KEY must be set in Django settings or environment variables
+Bad Request: /document-processing/api/process-invoice/
+Watching for file changes with StatReloader
+Processing invoice file: 1742816091007&&YVzyrMP8-5300 CURE.pdf
+Validation error: GOOGLE_API_KEY must be set in Django settings or environment variables
+Bad Request: /document-processing/api/process-invoice/
+Watching for file changes with StatReloader
+Processing invoice file: 1742816091007&&YVzyrMP8-5300 CURE.pdf
+Validation error: GOOGLE_API_KEY must be set in Django settings or environment variables
+Bad Request: /document-processing/api/process-invoice/
+Watching for file changes with StatReloader
+Processing invoice file: 1742816091007&&YVzyrMP8-5300 CURE.pdf
+Validation error: GOOGLE_API_KEY must be set in Django settings or environment variables
+Bad Request: /document-processing/api/process-invoice/
+Watching for file changes with StatReloader
+Processing invoice file: 1742816091007&&YVzyrMP8-5300 CURE.pdf
+Validation error: GOOGLE_API_KEY must be set in Django settings or environment variables
+Bad Request: /document-processing/api/process-invoice/
+Watching for file changes with StatReloader
+Processing invoice file: 1742816091007&&YVzyrMP8-5300 CURE.pdf
+Validation error: GOOGLE_API_KEY must be set in Django settings or environment variables
+Bad Request: /document-processing/api/process-invoice/
+Watching for file changes with StatReloader
+Processing invoice file: 1742816091007&&YVzyrMP8-5300 CURE.pdf
+Validation error: GOOGLE_API_KEY must be set in Django settings or environment variables
+Bad Request: /document-processing/api/process-invoice/
+Watching for file changes with StatReloader
+Processing invoice file: 1742816091007&&YVzyrMP8-5300 CURE.pdf
+Validation error: GOOGLE_API_KEY must be set in Django settings or environment variables
+Bad Request: /document-processing/api/process-invoice/
+Watching for file changes with StatReloader
+Processing invoice file: 1742816091007&&YVzyrMP8-5300 CURE.pdf
+Validation error: GOOGLE_API_KEY must be set in Django settings or environment variables
+Bad Request: /document-processing/api/process-invoice/
+D:\Entrans\Ginthi-backend\Ginthi\reconciliation\reconciliation\settings.py changed, reloading.
+Watching for file changes with StatReloader
+Processing invoice file: 1742816091007&&YVzyrMP8-5300 CURE.pdf
+Validation error: GOOGLE_API_KEY must be set in Django settings or environment variables
+Bad Request: /document-processing/api/process-invoice/
+D:\Entrans\Ginthi-backend\Ginthi\reconciliation\reconciliation\settings.py changed, reloading.
+Watching for file changes with StatReloader
+Processing invoice file: 1742816091007&&YVzyrMP8-5300 CURE.pdf
+Validation error: GOOGLE_API_KEY must be set in Django settings or environment variables
+Bad Request: /document-processing/api/process-invoice/
+D:\Entrans\Ginthi-backend\Ginthi\reconciliation\reconciliation\settings.py changed, reloading.
+Watching for file changes with StatReloader
+D:\Entrans\Ginthi-backend\Ginthi\reconciliation\reconciliation\settings.py changed, reloading.
+Watching for file changes with StatReloader
+Processing invoice file: 1742816091007&&YVzyrMP8-5300 CURE.pdf
+Extracting text from uploaded file: 1742816091007&&YVzyrMP8-5300 CURE.pdf
+Input tokens: 1237
+Processing invoice data with LLM...
+Output tokens: 267, Total tokens: 1504
+Successfully processed invoice: 1742816091007&&YVzyrMP8-5300 CURE.pdf
+Token usage - Input: 1237, Output: 267, Total: 1504
+Watching for file changes with StatReloader
+Processing invoice file: 1742816091007&&YVzyrMP8-5300 CURE.pdf
+Extracting text from uploaded file: 1742816091007&&YVzyrMP8-5300 CURE.pdf
+Input tokens: 1237
+Processing invoice data with LLM...
+Output tokens: 267, Total tokens: 1504
+Successfully processed invoice: 1742816091007&&YVzyrMP8-5300 CURE.pdf
+Token usage - Input: 1237, Output: 267, Total: 1504
+Watching for file changes with StatReloader
+Processing invoice file: 1742816091007&&YVzyrMP8-5300 CURE.pdf
+Extracting text from uploaded file: 1742816091007&&YVzyrMP8-5300 CURE.pdf
+Input tokens: 1237
+Processing invoice data with LLM...
+Output tokens: 267, Total tokens: 1504
+Successfully processed invoice: 1742816091007&&YVzyrMP8-5300 CURE.pdf
+Token usage - Input: 1237, Output: 267, Total: 1504
+Not Found: /document-processing/api/process-po-grn/
+Watching for file changes with StatReloader
+Not Found: /document-processing/api/process-po-grn/
+Processing invoice file: 1742816091007&&YVzyrMP8-5300 CURE.pdf
+Extracting text from uploaded file: 1742816091007&&YVzyrMP8-5300 CURE.pdf
+Input tokens: 1237
+Processing invoice data with LLM...
+Output tokens: 267, Total tokens: 1504
+Successfully processed invoice: 1742816091007&&YVzyrMP8-5300 CURE.pdf
+Token usage - Input: 1237, Output: 267, Total: 1504
